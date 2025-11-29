@@ -121,5 +121,5 @@ const ProductList = (props) => {
         );
 }
 
-// open
+// opens
 export default ProductList;
